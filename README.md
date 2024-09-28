@@ -7,7 +7,7 @@
 
 - 🔭 I’m currently working on [data_privacy](https://github.com/devgaganin/Save-Restricted-Content-Bot-Repo)
 
-- 👯 I’m looking to collaborate on [data_protection_team_spy](https://github.com/devgaganin/Save-Restricted-Content-Bot-Repo)
+- 👯 I’m looking to collaborate on [data_protection_Team_spy](https://github.com/devgaganin/Save-Restricted-Content-Bot-Repo)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
